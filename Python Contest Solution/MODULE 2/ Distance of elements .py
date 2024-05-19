@@ -12,6 +12,7 @@ def containsNearbyDuplicate(nums, k):
 nums = list(map(int, input().split()))
 k = int(input())
 
+#print results
 result = containsNearbyDuplicate(nums, k)
 print( result)
                                                                                                                             
