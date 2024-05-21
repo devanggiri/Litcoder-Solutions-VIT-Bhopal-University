@@ -1,3 +1,4 @@
+#define our function
 def minStepsToTargetSweetness(target, candies):
     candies.sort()
     steps = 0
