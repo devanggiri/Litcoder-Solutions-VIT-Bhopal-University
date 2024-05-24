@@ -1,4 +1,5 @@
 import sys
+#define our function
 def legoWall(n, m):
     MOD = 1000000007
 
