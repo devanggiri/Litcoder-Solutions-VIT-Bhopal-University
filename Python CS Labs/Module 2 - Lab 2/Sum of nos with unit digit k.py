@@ -1,5 +1,5 @@
 import sys
-
+#define our function
 def min_set_size(num, k):
     # If k is 0, a set with only one number '0' will satisfy the condition
     if k == 0:
